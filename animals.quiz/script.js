@@ -3,7 +3,7 @@ const questions = [
         question: "Dünyanın en hızlı kara hayvanı hangisidir?",
         answers: [
             { text: "Çita", correct: true },
-            { text: "Aslan", correct: false },
+            { text: "Kurt", correct: false },
             { text: "Tavşan", correct: false },
             { text: "Fil", correct: false }
         ]
